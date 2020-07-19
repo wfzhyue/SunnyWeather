@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SunnyWeather</string>
+    <!--自定义-->
+    <string name="searchPlaceEditString">请输入地址</string>
 </resources>
